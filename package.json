@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cypress": "^13.3.3"
+  },
+  "devDependencies": {
+    "cypress-wait-until": "^2.0.1"
+  }
+}
